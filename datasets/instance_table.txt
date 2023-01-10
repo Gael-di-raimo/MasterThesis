@@ -1,0 +1,13 @@
+0 30n20b8
+1 50v-10
+2 assign1-5-8
+3 beasleyC3
+4 binkar10_1
+5 blp-ic98
+6 bppc4-08
+7 co-100
+8 eil33-2
+9 fhnw-binpack4-4
+10 gmu-35-40
+11 nu25-pr12
+12 proteindesign121hz512p9

@@ -1,4 +1,5 @@
 # MasterThesis
 Machine Learning for a fast sparse triangular solve
 
-The solution is not uploaded yet. Hopefully, it will be available in few days.
+Master’s thesis completed in order to obtain the degree of Master of Science in Software Engineering by
+DI RAIMO Gaël
